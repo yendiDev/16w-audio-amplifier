@@ -33,10 +33,9 @@ The circuit is designed to amplify audio signals while ensuring stability and pr
 
 
 ### Schematics:
-![Capture](https://github.com/user-attachments/assets/702ef744-4db0-4178-931b-1ea6e5715028)
+![Capture](https://github.com/user-attachments/assets/1138ede1-2ecd-4e45-a891-6b1819fdd317)
 
 ### PCB Layout:
-
 Front layer:
 ![Capture](https://github.com/user-attachments/assets/62e57029-4b65-415c-ba1d-ff85cc36af58)
 
@@ -44,7 +43,7 @@ Bottom layer:
 ![Capture](https://github.com/user-attachments/assets/47545329-6685-4484-ae68-1fd0f035f912)
 
 ### 3D view of PCB:
-![Capture](https://github.com/user-attachments/assets/67ce68d4-70e3-4ef3-9fc7-efaf76635764)
+![Capture](https://github.com/user-attachments/assets/702ef744-4db0-4178-931b-1ea6e5715028)
 
 ![Capture](https://github.com/user-attachments/assets/2198c9e7-a02c-4c63-8a44-1b4cb48325fc)
 
